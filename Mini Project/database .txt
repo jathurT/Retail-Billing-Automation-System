@@ -1,0 +1,7 @@
+ 1 jam 50 1
+ 5 icecream 50 1
+ 5 jaam 45 1
+ 5 vwdc 5 5
+ 5 dvdsc 50 2
+ 7 haka 50 1
+ 12 jame 1000 2
